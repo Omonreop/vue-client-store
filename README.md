@@ -1,4 +1,7 @@
-# vue-client
+#server-side
+https://github.com/Omonreop/vue-server-store
+
+# vue-client-store
 
 This template should help get you started developing with Vue 3 in Vite.
 

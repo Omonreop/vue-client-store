@@ -1,4 +1,4 @@
-#server-side
+# server-side
 https://github.com/Omonreop/vue-server-store
 
 # vue-client-store
